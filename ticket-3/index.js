@@ -14,4 +14,4 @@ function countNumberOfNinesInNumber(number) {
 console.log(countNumberOfNinesInNumber(99.999))       // 5 
 console.log(countNumberOfNinesInNumber(9))          // 1 
 
-// bug solved as input was a number but operations required string inputs.
+// bug solved as input was a number but operations required string inputs
